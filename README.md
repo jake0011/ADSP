@@ -23,14 +23,6 @@ Each section includes a design rationale, algorithmic details, simulation result
 - `Q2_ANC/` - Python Jupyter Notebook implementing the Fx-LMS ANC algorithm, simulation results including attenuation plots and spectrograms, plus a technical memo.
 - `Q3_OFDM/` - MATLAB scripts for OFDM baseband receiver simulation, BER and channel estimation performance plots, and a technical memo.
 
-## Features
-
-- Iterative filter design using Kaiser and Parks-McClellan methods for SRC with numerical verification.
-- Polyphase decomposition for computational efficiency analysis and practical MAC counts.
-- Fx-LMS algorithm with variable step-size normalization and noise environment simulation.
-- Channel estimation comparison with LS and MMSE methods, including mobility and Doppler effects.
-- Fixed-point implementation guidance including coefficient quantization and accumulator sizing.
-- Clear mapping from question specifications to engineering design choices.
 
 ## Usage
 
