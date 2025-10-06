@@ -15,7 +15,7 @@ This project addresses three DSP tasks:
 3. **64-QAM OFDM Baseband Receiver Chain**  
    Simulate a baseband OFDM physical layer receiver including timing synchronization, carrier frequency offset estimation, pilot-based channel estimation (LS and MMSE), equalization, and performance evaluation under multipath and mobility effects.
 
-Each section includes a design rationale, algorithmic details, simulation results, and implementation considerations. Code scripts and plots supporting the work are included in the repository.
+<!--Each section includes a design rationale, algorithmic details, simulation results, and implementation considerations. Code scripts and plots supporting the work are included in the repository-->
 
 ## Contents
 
