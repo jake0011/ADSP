@@ -39,7 +39,7 @@ Each section includes a design rationale, algorithmic details, simulation result
 
 ## Deliverables
 
-- Technical reports summarizing design approaches, results, and considerations.
+- Technical report summarizing design approaches, results, and considerations.
 - Source code for simulation and evaluation.
   
 
